@@ -76,6 +76,7 @@ FLASK_ENV=staging poetry run flask run --host=127.0.0.1 --port=6000
 ```
 
 ## Run the Angular Application
+- cd dream_client/anuj-jain-web
 - Install the angular 13
 - Install the node modules using command ```npm install```
 - To run the angular project ```ng s```
